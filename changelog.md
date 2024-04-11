@@ -1,0 +1,1 @@
+- Updated corpse save format
